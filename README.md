@@ -1,3 +1,7 @@
+<img width="365" height="587" alt="image" src="https://github.com/user-attachments/assets/f5c50f77-07aa-4df1-86a1-839ccc0f31ec" />
+<img width="367" height="589" alt="image" src="https://github.com/user-attachments/assets/da8994b4-b506-4765-8839-0faf3d790bc8" />
+
+
 # ListShuffle-DupCleaner 🛠️
 
 Aplikasi desktop berbasis Python dan Tkinter yang ringan dan praktis untuk mengelola daftar teks (*list*). Aplikasi ini menyediakan fitur untuk membagi daftar teks ke dalam file Excel (dengan opsi pengacakan otomatis) serta membersihkan item duplikat atau menyaring data menggunakan daftar pembanding.
